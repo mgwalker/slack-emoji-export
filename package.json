@@ -1,12 +1,9 @@
 {
   "name": "slack-emoji-export",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "Exports emoji from Slack",
+  "main": "main.js",
+  "author": "Greg Walker <npm@darkcooger.net>",
   "license": "ISC",
   "engines": {
     "node": ">= 8.10.x"
