@@ -1,4 +1,4 @@
-# slack-emoji-exporter
+# slack-emoji-export
 
 A tool that can extract a [Slack emojipack](https://github.com/lambtron/emojipacks)
 from a Slack you can log into.
@@ -30,7 +30,7 @@ Then you can run the exporter with npx. The prompts will
 ask what they need!
 
 ```console
-npx slack-emoji-exporter
+npx slack-emoji-export
 ```
 
 #### With older npm
@@ -39,6 +39,6 @@ Or if you stick with the default npm, you can install the
 exporter globally, then run it and follow the prompts.
 
 ```console
-npm install -g slack-emoji-exporter
-slack-emoji-exporter
+npm install -g slack-emoji-export
+slack-emoji-export
 ```
