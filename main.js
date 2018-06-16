@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs');
 const prompt = require('prompt');
 const chalk = require('chalk');
