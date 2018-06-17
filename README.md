@@ -19,15 +19,8 @@ You'll need [Node.js 8.x](https://nodejs.org/en/download/) or higher.
 
 #### With npm@6 or greater
 
-If you just install Node.js 8.x, you'll have an older version
-of npm. You can upgrade npm manually if you want to:
-
-```console
-npm install -g npm@^6
-```
-
-Then you can run the exporter with npx. The prompts will
-ask what they need!
+You can run the exporter with npx and not have to isntall anything.
+The prompts will ask what they need!
 
 ```console
 npx slack-emoji-export
