@@ -28,7 +28,7 @@ npx slack-emoji-export
 
 #### With older npm
 
-Or if you stick with the default npm, you can install the
+If you have an older version of npm, you can install the
 exporter globally, then run it and follow the prompts.
 
 ```console
