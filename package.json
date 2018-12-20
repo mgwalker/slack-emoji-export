@@ -1,6 +1,6 @@
 {
   "name": "slack-emoji-export",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Exports emoji from Slack",
   "main": "main.js",
   "bin": "main.js",
