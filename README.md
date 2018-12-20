@@ -19,7 +19,7 @@ You'll need [Node.js 8.x](https://nodejs.org/en/download/) or higher.
 
 #### With npm@6 or greater
 
-You can run the exporter with npx and not have to isntall anything.
+You can run the exporter with npx and not have to install anything.
 The prompts will ask what they need!
 
 ```console
