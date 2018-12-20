@@ -62,8 +62,12 @@ prompt.get(
           );
         })
     );
+
+    log('get')('getting user token');
+    const token = await slack.getToken();
+
     log('get')('getting list of emoji');
-    const emoji = await slack.getEmoji();
+    const emoji = await slack.getEmoji(token);
 
     if (result.download) {
       log('download').header('Downloading emoji images');
